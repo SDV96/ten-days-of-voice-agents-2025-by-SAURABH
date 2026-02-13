@@ -14,7 +14,7 @@ A complete starter project for building voice AI apps with [LiveKit Agents for P
 **Based on:** [livekit-examples/agent-starter-python](https://github.com/livekit-examples/agent-starter-python)
 
 The starter project includes:
-
+cv
 - A simple voice AI assistant, ready for extension and customization
 - A voice AI pipeline with [models](https://docs.livekit.io/agents/models) from OpenAI, Cartesia, and AssemblyAI served through LiveKit Cloud
   - Easily integrate your preferred [LLM](https://docs.livekit.io/agents/models/llm/), [STT](https://docs.livekit.io/agents/models/stt/), and [TTS](https://docs.livekit.io/agents/models/tts/) instead, or swap to a realtime model like the [OpenAI Realtime API](https://docs.livekit.io/agents/models/realtime/openai)
