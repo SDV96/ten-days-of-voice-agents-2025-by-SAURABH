@@ -2,7 +2,7 @@
 
 For Day 1, your objective is to:
 
-- Step 1: Fork the repo (optional). **Get this starter repo running end-to-end** (backend + frontend) by following the setup and run instructions in `README.md`.
+- Step 1: Fork the repo (optional). **Get this starter repo running end-to-end** (backend + frontend) by following the setup and run instructions in `README.md`. ok
 
 Alternatively
 
