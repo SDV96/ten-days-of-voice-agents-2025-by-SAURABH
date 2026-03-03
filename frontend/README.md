@@ -1,6 +1,6 @@
 # Agent Starter for React
 
-> 🎙️ This is part of the AI Voice Agents Challenge by murf.ai**
+> 🎙️ This is part of the AI Voice Agents Challenge by murf.ai** ai made in 
 >
 > This frontend is designed to work with the Murf Falcon-powered backend for ultra-fast voice interactions.
 > See the [main README](../README.md) for complete setup instructions and challenge details.
